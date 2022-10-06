@@ -1,0 +1,16 @@
+Flask
+gunicorn
+sklearn
+pandas
+numpy
+PyYAML
+ipykernel
+dill
+evidently
+six
+ipywidgets
+pandas_profiling
+nbformat
+seaborn
+matplotlib
+-e .
